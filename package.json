@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smit-sms/Adventure-Venture.git"
+    "url": "git+https://github.com/johadsalka/AdventureVenture.git"
   },
-  "author": "smit-sms",
+  "author": "soham",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smit-sms/Adventure-Venture/issues"
+    "url": "https://github.com/johadsalka/AdventureVenture.git/issues"
   },
-  "homepage": "https://github.com/smit-sms/Adventure-Venture#readme",
+  "homepage": "https://github.com/johadsalka/AdventureVenture.git#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "connect-flash": "^0.1.1",
